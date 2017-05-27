@@ -12,9 +12,9 @@
 
 
 # REMARKS
-1.My db in png file.
-2.I'm not sure what does it mean "transform to Redis" 
-3.I add around 5 ppl, but of course i can add more. 
+1. My db in png file.
+2. I'm not sure what does it mean "transform to Redis" 
+3. I add around 5 ppl, but of course i can add more. 
 4. a)Add new customers - check
    b)Add new orders - check
    c) Listing all orders of a customer - check
